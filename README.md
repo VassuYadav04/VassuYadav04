@@ -55,9 +55,3 @@
       
 <img width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vassuyadav04&theme=radical" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VassuYadav04/VassuYadav04/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VassuYadav04/VassuYadav04/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VassuYadav04/VassuYadav04/output/github-contribution-grid-snake.svg">
-</picture>
