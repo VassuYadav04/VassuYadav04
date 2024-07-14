@@ -21,7 +21,7 @@
 <p>
 
 
-- 🔭 I’m currently working on **A personal portfolio website**
+- 🔭 I’m currently working on **a personal portfolio website**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
