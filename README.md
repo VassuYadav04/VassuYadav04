@@ -21,11 +21,11 @@
 <p>
 
 
-- 🔭 I’m currently working on **a personal portfolio website**
+- 🔭 I’m currently working on **a Personal Portfolio Website**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **Web Devlopment projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 📫 How to reach me **vassuyadavnsj@gmail.com**
 </p>
